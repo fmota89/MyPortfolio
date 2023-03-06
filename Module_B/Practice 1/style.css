@@ -1,0 +1,16 @@
+/* style.css */
+body {
+  font-size: 16px;
+}
+
+@media only screen and (min-width: 768px) {
+  body {
+    font-size: 20px;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  body {
+    font-size: 24px;
+  }
+}
